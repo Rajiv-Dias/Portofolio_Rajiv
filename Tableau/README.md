@@ -37,7 +37,8 @@ The dashboard includes several interactive components:
 - This project is created for learning and portfolio purposes.
 
 ## Preview
-![Dashboard Preview](image/dashboard.png)
+https://public.tableau.com/shared/SY7YDHBW8?:display_count=n&:origin=viz_share_link
+
 
 
 
