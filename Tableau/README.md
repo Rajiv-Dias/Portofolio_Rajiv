@@ -36,5 +36,9 @@ The dashboard includes several interactive components:
 - No sensitive information or credentials are embedded in the workbook.
 - This project is created for learning and portfolio purposes.
 
-## Preview
-![Airbnb Dashboard Preview]([Tableau/AirBnB_Dashboard_Project.jpeg](https://github.com/Rajiv-Dias/Portfolio_Rajiv/blob/d7fce24fd694b8507ad0a3b2634a4dfbcda89419/Tableau/AirBnB_Dashboard_Project.jpeg))
+## Interactive Dashboard
+You can view the interactive dashboard here:
+🔗 [View on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/views/Projek-1Airbnb_Fix/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+
+
