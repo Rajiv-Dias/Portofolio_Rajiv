@@ -1,8 +1,7 @@
 # Airbnb Dashboard Project (Tableau)
 
 ## Overview
-This project presents an interactive Tableau dashboard designed to analyze Airbnb listings and pricing patterns across different regions.  
-The dashboard aims to help users understand market distribution, pricing trends, and regional performance using visual analytics.
+This project presents an interactive Tableau dashboard designed to analyze Airbnb listings and pricing patterns across different regions. The dashboard aims to help users understand market distribution, pricing trends, and regional performance using visual analytics.
 
 ## Tools
 - Tableau Desktop (Public Edition)
@@ -38,4 +37,4 @@ The dashboard includes several interactive components:
 - This project is created for learning and portfolio purposes.
 
 ## Preview
-![Airbnb Dashboard Preview](image/dashboard.png)
+![Airbnb Dashboard Preview](Tableau/AirBnB_Dashboard_Project.jpeg)
