@@ -1,30 +1,40 @@
-🧺 Smart Data Laundry: Automated Cleaning Pipeline
+## 🧺 Smart Data Laundry
+Automated Data Cleaning Pipeline (Python)
 
-Tired of dealing with messy datasets, annoying duplicates, and cluttered numerical columns? Smart Data Laundry is a streamlined Python-based tool designed to automate the data cleaning process for both .csv and .xlsx files, ensuring your data is "analysis-ready" in seconds.
-✨ Why This Project?
+Smart Data Laundry is a Python-based automated data cleaning pipeline designed to transform raw .csv and .xlsx datasets into analysis-ready data in seconds.
 
-Data cleaning often consumes up to 80% of a data professional's workflow. This project aims to accelerate that process with the following features:
+## 🎯 Objective
 
-    Auto-Detection: Automatically identifies file formats and handles common delimiter issues.
+- Automate repetitive preprocessing tasks to improve:
+- Efficiency
+- Data integrity
+- Workflow consistency
 
-    Smart Imputation: Automatically fills missing values (nulls) in numerical columns using the Mean (μ).
+## ⚙️ Key Features
 
-    Integrity Guard: Instead of just deleting duplicates, the system isolates and saves them into a separate file for auditing purposes.
+- ✅ Auto-detects .csv and .xlsx files
+- 🧠 Mean (μ) imputation for missing numerical values
+- 🛡️ Duplicate detection with separate audit file
+- 📐 Standardizes column names (lowercase & reset index)
+- 🔄 Converts numeric values stored as text
+- 📤 Exports cleaned data to .csv and .xlsx
 
-    Consistency: Ensures all column names are standardized to lowercase and the index is reset for a clean, sequential structure.
+## 🛠 Tech Stack
 
-🚀 Workflow
+Python • Pandas • NumPy • Jupyter Notebook
 
-    Ingesting: Loads CSV or Excel files from your local path with built-in error handling.
+## ▶️ How to Run
+data_cleaning_master("your_dataset_path.csv", "Dataset Name")
 
-    Deduplicate: Identifies and isolates "twin" records, preserving a copy before removal.
+## 📊 Skills Demonstrated
 
-    Sanitizing:
+- Data Cleaning & Preprocessing
+- Missing Value Handling
+- Duplicate Detection
+- Data Type Conversion
+- ETL Workflow Automation
 
-        Numerical Columns: Implements Mean Imputation (μ) for any missing values.
+## 👤 Author
 
-        Categorical/Text Columns: Removes rows with missing values to maintain data quality.
-
-        Smart Formatting: Attempts to convert "string-trapped" currency or numeric data into proper formats.
-
-    Exporting: Saves the refined results into both .csv and .xlsx formats for maximum compatibility.
+Rajiv Noor Said
+Aspiring Data Analyst
