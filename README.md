@@ -2,9 +2,9 @@
 ### Rajiv Noor Said
 
 Welcome to my Data Analytics Portfolio.  
-This repository showcases hands-on projects demonstrating my technical skills in data cleaning, querying, analysis, and visualization using Python, SQL, and Tableau.
+This repository showcases hands-on projects that demonstrate my technical capabilities in data cleaning, querying, analysis, and visualization using Python, SQL, and Tableau. Each project reflects a practical approach to handling real-world datasets — from transforming raw and unstructured data into clean, analysis-ready formats, to extracting meaningful insights through structured queries and presenting findings through interactive dashboards.
 
-The goal of this portfolio is to present practical, real-world data problem-solving capabilities aligned with Data Analyst roles.
+The goal of this portfolio is to highlight my ability to solve real business problems using data. It emphasizes not only technical proficiency, but also structured analytical thinking, workflow automation, and the ability to translate data into actionable insights aligned with the responsibilities of a Data Analyst role.
 
 ---
 
