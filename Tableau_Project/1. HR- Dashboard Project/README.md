@@ -3,7 +3,7 @@
 Interactive **Human Resources Analytics Dashboard** built using Tableau to explore workforce metrics, employee demographics, compensation patterns, and organizational trends.
 
 🔗 **Live Dashboard (Tableau Public)**  
-https://public.tableau.com/views/HRWorkforceAnalyticsDashboard_17748525976940/HRDetails
+https://tinyurl.com/Dashboard-Human-Resourses
 
 ---
 
@@ -128,7 +128,7 @@ This project demonstrates several important **Data Analytics skills**:
 # 🖼️ Dashboard Preview
 
 ### Overview Dashboard
-*(Insert screenshot here)*
+*(Insert screenshot her)*
 
 ### Employee Details Dashboard
 *(Insert screenshot here)*
