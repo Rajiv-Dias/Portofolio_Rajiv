@@ -1,18 +1,31 @@
-## 📊 Project Overview
+# 📊 HR Workforce Analytics Dashboard
 
-This project presents an interactive **Human Resources Workforce Analytics Dashboard** built using Tableau.  
-The goal of this project is to transform HR data into meaningful insights that help organizations better understand workforce composition, employee demographics, compensation patterns, and turnover trends.
+Interactive **Human Resources Analytics Dashboard** built using Tableau to explore workforce metrics, employee demographics, compensation patterns, and organizational trends.
 
-The dashboard is divided into two main views:
-
-- **Overview Dashboard** – provides high-level HR metrics and workforce insights.
-- **Employee Details Dashboard** – allows detailed exploration of individual employee records with multiple filters.
-
-Through interactive visualizations, this dashboard helps stakeholders quickly analyze workforce trends and support **data-driven HR decision making**.
+🔗 **Live Dashboard (Tableau Public)**  
+https://public.tableau.com/views/HRWorkforceAnalyticsDashboard_17748525976940/HRDetails
 
 ---
 
-## 🎯 Business Questions
+# 📌 Project Overview
+
+Human Resources data contains valuable insights that can help organizations understand workforce composition, monitor employee turnover, and evaluate compensation trends.
+
+This project transforms raw HR data into an **interactive analytics dashboard** that allows users to explore key workforce metrics and identify patterns in employee demographics, salaries, and organizational distribution.
+
+The dashboard is designed to support **data-driven HR decision making** through intuitive visualizations and interactive filters.
+
+The project includes two main dashboards:
+
+**1. Overview Dashboard**
+- Displays high-level HR KPIs and workforce insights.
+
+**2. Employee Details Dashboard**
+- Provides detailed employee-level information with interactive filters for deeper analysis.
+
+---
+
+# 🎯 Business Questions
 
 This dashboard was designed to answer several key **Human Resources business questions**.
 
@@ -24,8 +37,8 @@ This dashboard was designed to answer several key **Human Resources business que
 
 ### Workforce Distribution
 - Which departments have the largest workforce?
-- How are employees distributed across different locations?
-- What is the gender distribution across the organization?
+- How are employees distributed across locations?
+- What is the gender distribution within the organization?
 
 ### Demographics Analysis
 - How are employees distributed across age groups?
@@ -40,19 +53,108 @@ This dashboard was designed to answer several key **Human Resources business que
 
 ---
 
-## 📈 Key Insights
+# 📈 Key Insights
 
-- The **Operations department** has the largest number of employees compared to other departments.
+Some insights that can be observed from the dashboard include:
+
+- The **Operations department** has the largest workforce among all departments.
 - Most employees fall within the **35–44 age group**, representing the core workforce segment.
-- Employees with **higher education levels (Master’s and PhD)** tend to receive higher salaries.
+- Employees with **higher education levels (Master’s and PhD)** tend to receive higher average salaries.
 - Workforce distribution shows that some locations have significantly higher employee concentrations.
 - **Managerial and specialized roles** generally receive higher salaries compared to operational roles.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 📊 Dashboard Features
+
+### Workforce KPIs
+- Total Employees
+- Active Employees
+- Terminated Employees
+- Turnover Rate
+- Average Salary
+- Average Tenure
+- Average Age
+- Salary Equity Index
+
+### Workforce Analysis
+- Department employee distribution
+- Hiring vs termination trends
+- Gender distribution
+- Age and education analysis
+- Salary vs age relationship
+- Geographic employee distribution
+
+### Employee-Level Exploration
+The **Details Dashboard** allows filtering by:
+
+- Employee ID
+- Gender
+- Age Group
+- Education Level
+- Department
+- Job Title
+- Location
+- Salary
+- Worker Status
+- Hire Date
+
+---
+
+# 🛠️ Tools & Technologies
 
 - **Tableau Desktop**
 - **Tableau Public**
+- **Microsoft Excel / CSV dataset**
 - **Data Visualization**
 - **Exploratory Data Analysis (EDA)**
+
+---
+
+# 📌 Skills Demonstrated
+
+This project demonstrates several important **Data Analytics skills**:
+
+- Data Visualization
+- Dashboard Design
+- Exploratory Data Analysis
+- Business Problem Framing
+- KPI Development
+- HR Data Analysis
+- Interactive Dashboard Development
+
+---
+
+# 🖼️ Dashboard Preview
+
+### Overview Dashboard
+*(Insert screenshot here)*
+
+### Employee Details Dashboard
+*(Insert screenshot here)*
+
+---
+
+# 🚀 How to Use
+
+1. Open the **Tableau Public dashboard link**
+2. Explore the **Overview dashboard** for high-level insights
+3. Use filters to analyze specific workforce segments
+4. Switch to the **Details dashboard** to explore individual employee data
+
+---
+
+# 👤 Author
+
+**Rajiv Noor Said**
+
+Aspiring **Data Analyst / Data Scientist** with strong interest in:
+
+- Data Analytics
+- Data Visualization
+- Business Intelligence
+- Data Science
+
+---
+
+⭐ If you find this project interesting, feel free to **star this repository**.
