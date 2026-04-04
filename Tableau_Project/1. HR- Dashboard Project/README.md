@@ -19,11 +19,13 @@ The project includes two main dashboards:
 
 **1. Overview Dashboard**
 - Displays high-level HR KPIs and workforce insights.
+
 ![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/ee21cd412217482b0f339dfee4548b85ae402863/Tableau_Project/1.%20HR-%20Dashboard%20Project/Dashboard%201%20(HR-Resume).png)
 
 **2. Employee Details Dashboard**
 - Provides detailed employee-level information with interactive filters for deeper analysis.
 
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/349f0804d5e6711affc8d4b7f294f78d4a7c0696/Tableau_Project/1.%20HR-%20Dashboard%20Project/Dashboard%202%20(HR-Details).png)
 ---
 
 # 🎯 Business Questions
