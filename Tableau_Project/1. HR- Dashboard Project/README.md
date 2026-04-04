@@ -128,16 +128,6 @@ This project demonstrates several important **Data Analytics skills**:
 
 ---
 
-# 🖼️ Dashboard Preview
-
-### Overview Dashboard
-*(Insert screenshot her)*
-
-### Employee Details Dashboard
-*(Insert screenshot here)*
-
----
-
 # 🚀 How to Use
 
 1. Open the **Tableau Public dashboard link**
