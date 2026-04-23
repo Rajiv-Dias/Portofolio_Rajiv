@@ -72,7 +72,7 @@ This dashboard addresses these issues by providing a centralized view of key sup
 
 ## 📸 Dashboard Preview
 
-![Dashboard](https://drive.google.com/file/d/1ppDL-E1rN-7oapNlyaxv17V0jw_zC3PR/view?usp=sharing)
+![imagealt](PowerBI_Project/1. Supply_Chain_Dashboard/Supply Chain_Dashboard.jpeg)
 
 ---
 
