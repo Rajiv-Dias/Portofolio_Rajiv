@@ -33,8 +33,11 @@ The goal of this portfolio is to demonstrate:
 Interactive HR analytics dashboard built using Tableau to analyze workforce demographics, salary distribution, and employee trends. The dashboard provides key insights to support data-driven HR decision making..
 
 🔗 Dashboard Preview:  
+### a. HR_Analytic_Dashboard
 
 ![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/2b4d5d0385b42c1e902ca2ae5f383cfad9d38cc4/Tableau_Project/1.%20HR-%20Dashboard%20Project/Dashboard%201%20(HR-Resume).png)
+
+### b. HR_Detail_Dashboard
 
 ![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/2b4d5d0385b42c1e902ca2ae5f383cfad9d38cc4/Tableau_Project/1.%20HR-%20Dashboard%20Project/Dashboard%202%20(HR-Details).png)
 
