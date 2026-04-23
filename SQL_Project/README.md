@@ -34,6 +34,14 @@ The goal of this portfolio is to demonstrate:
 
 A comprehensive SQL project analyzing retail transaction data to understand sales performance, customer behavior, and purchasing patterns. This project answers key business questions such as identifying top customers, best-performing months, and category-level performance.
 
+🔗 Analysis Preview:  
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/00cfe439cc67a860151ede53c659ee5efeef61e6/SQL_Project/1.%20Retail%20Sales%20Analysis/Pictures/Sales_Analysis-1.png)
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/00cfe439cc67a860151ede53c659ee5efeef61e6/SQL_Project/1.%20Retail%20Sales%20Analysis/Pictures/Sales_Analysis-2.png)
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/00cfe439cc67a860151ede53c659ee5efeef61e6/SQL_Project/1.%20Retail%20Sales%20Analysis/Pictures/Sales_Analysis-3.png)
+
 ---
 
 ## 📊 Skills Demonstrated
