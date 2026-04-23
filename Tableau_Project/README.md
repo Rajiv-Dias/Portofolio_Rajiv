@@ -29,10 +29,10 @@ The goal of this portfolio is to demonstrate:
 
 ## 📂 Projects Included
 
-### 1️⃣ AirBnB_Project  
-An interactive Tableau dashboard analyzing Airbnb listing distribution, pricing patterns, regional performance, and guest satisfaction metrics to support data-driven insights in the hospitality market.
+### 1️⃣ HR_Analitics_Project  
+Interactive HR analytics dashboard built using Tableau to analyze workforce demographics, salary distribution, and employee trends. The dashboard provides key insights to support data-driven HR decision making..
 
-(https://public.tableau.com/shared/SY7YDHBW8?:display_count=n&:origin=viz_share_link)
+(https://tinyurl.com/Dashboard-Human-Resourses)
 
 ---
 
