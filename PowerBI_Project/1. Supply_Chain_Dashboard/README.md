@@ -21,6 +21,12 @@ This dashboard addresses these issues by providing a centralized view of key sup
 
 ---
 
+## 📸 Dashboard Preview
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/e2c1fb34b8118870d08282f5aa87157217fd4407/PowerBI_Project/1.%20Supply_Chain_Dashboard/Supply%20Chain_Dashboard.jpeg)
+
+---
+
 ## 💡 Key Insights
 
 - **Demand Volatility**  
@@ -70,11 +76,6 @@ This dashboard addresses these issues by providing a centralized view of key sup
 
 ---
 
-## 📸 Dashboard Preview
-
-![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/e2c1fb34b8118870d08282f5aa87157217fd4407/PowerBI_Project/1.%20Supply_Chain_Dashboard/Supply%20Chain_Dashboard.jpeg)
-
----
 
 ## 👤 About Me
 
