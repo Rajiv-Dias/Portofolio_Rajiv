@@ -33,7 +33,14 @@ The goal of this portfolio is to demonstrate:
 ### 1️⃣ Data Cleaning Project  
 An automated data cleaning pipeline that transforms messy `.csv` and `.xlsx` datasets into structured, analysis-ready data.
 
-More details inside the project folder.
+🔗 Analysis Preview:  
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/20c2b5950cd2326ee889ef9c0c965eb541baf5e3/Python_Project/1.%20Data%20Cleaning/Pictures/Python_Code-1.png)
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/20c2b5950cd2326ee889ef9c0c965eb541baf5e3/Python_Project/1.%20Data%20Cleaning/Pictures/Python_Code-2.png)
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/20c2b5950cd2326ee889ef9c0c965eb541baf5e3/Python_Project/1.%20Data%20Cleaning/Pictures/Python_Code-3.png)
+
 
 ---
 
