@@ -22,48 +22,9 @@ This project is designed to automate the data cleaning and preprocessing process
 
 ## 🔄 Data Cleaning Workflow (Visual)
 
-```mermaid
-flowchart TD
+🔗 Preview:  
 
-A[Start Program] --> B[Input Dataset Path & Name]
-
-B --> C{Check File Exists?}
-C -- No --> D[Show Error & Stop]
-C -- Yes --> E[Detect File Type]
-
-E --> F{File Format}
-F -- CSV --> G[Load CSV File]
-F -- Excel --> H[Load Excel File]
-F -- Unknown --> D
-
-G --> I[Standardize Columns]
-H --> I
-
-I --> J[Check Dataset Dimension]
-
-J --> K[Check Duplicates]
-K --> L{Duplicates Found?}
-L -- Yes --> M[Save Duplicate File]
-M --> N[Remove Duplicates]
-L -- No --> O[Skip]
-
-N --> P[Check Missing Values]
-O --> P
-
-P --> Q[Handle Missing Values]
-Q --> R{Column Type}
-
-R -- Numeric --> S[Fill with Mean]
-R -- Categorical --> T[Drop Rows]
-
-S --> U[Reset Index]
-T --> U
-
-U --> V[Save Clean Data CSV]
-V --> W[Save Clean Data Excel]
-
-W --> X[End Process ✅]
-```
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/4bf2964b09293635dcb5aec814f171205ad5077f/Python_Project/1.%20Data%20Cleaning/Pictures/Data_Cleaning_Workflow.png)
 
 ---
 
