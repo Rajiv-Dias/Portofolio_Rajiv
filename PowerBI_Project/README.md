@@ -35,6 +35,7 @@ The goal of this portfolio is to demonstrate:
 An interactive dashboard analyzing supply chain performance, focusing on order trends, shipment efficiency, and delivery delays. This project highlights operational inefficiencies and provides insights to improve logistics performance and decision-making.
 
 🔗 Dashboard Preview:  
+
 ![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/e2c1fb34b8118870d08282f5aa87157217fd4407/PowerBI_Project/1.%20Supply_Chain_Dashboard/Supply%20Chain_Dashboard.jpeg)
 
 ---
