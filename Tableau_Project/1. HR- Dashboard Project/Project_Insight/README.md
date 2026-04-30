@@ -98,11 +98,3 @@ This project demonstrates the ability to:
 - Identify patterns in workforce behavior and structure  
 - Communicate data insights in a business context  
 
----
-
-## 🔗 Dashboard Preview
-*(Add your Tableau Public / screenshot link here)*
-
----
-
-## 📁 Project Structure
