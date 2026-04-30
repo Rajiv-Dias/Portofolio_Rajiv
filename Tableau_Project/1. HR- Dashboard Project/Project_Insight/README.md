@@ -36,6 +36,9 @@ This project presents a comprehensive Workforce Analytics Dashboard designed to 
 ---
 
 ### 2. Workforce Concentration by Department
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/bcf80493d8b1f029105df68e625ab51ebe3d774a/Tableau_Project/1.%20HR-%20Dashboard%20Project/Project_Insight/Project_Insight/HR_Analysis-2.png)
+
 - Operations: **2,429 employees**
 - Sales: **1,634 employees**
 - Customer Service: **1,489 employees**
@@ -46,6 +49,9 @@ This project presents a comprehensive Workforce Analytics Dashboard designed to 
 ---
 
 ### 3. Workforce Demographics
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/bcf80493d8b1f029105df68e625ab51ebe3d774a/Tableau_Project/1.%20HR-%20Dashboard%20Project/Project_Insight/Project_Insight/HR_Analysis-3.png)
+
 - Largest Age Group: **35–44 years old**
 - Average Age: **42.43 years**
 
@@ -54,6 +60,9 @@ This project presents a comprehensive Workforce Analytics Dashboard designed to 
 ---
 
 ### 4. Salary vs Seniority
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/bcf80493d8b1f029105df68e625ab51ebe3d774a/Tableau_Project/1.%20HR-%20Dashboard%20Project/Project_Insight/Project_Insight/HR_Analysis-4.png)
+
 - Finance Manager: ~**$120K**
 - IT Manager: ~**$110K**
 - Sales Manager: ~**$105K**
@@ -64,6 +73,9 @@ This project presents a comprehensive Workforce Analytics Dashboard designed to 
 ---
 
 ### 5. Workforce Distribution by Location
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/bcf80493d8b1f029105df68e625ab51ebe3d774a/Tableau_Project/1.%20HR-%20Dashboard%20Project/Project_Insight/Project_Insight/HR_Analysis-5.png)
+
 - Headquarters: **6,270 employees**
 - Branches: **2,680 employees**
 
