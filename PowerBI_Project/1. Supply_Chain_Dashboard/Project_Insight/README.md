@@ -23,6 +23,9 @@ This project showcases an interactive Power BI dashboard designed to analyze sal
 ## 📊 Key Insights
 
 ### 1. Order Quantity Trend
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/ccf7a30ba9b6eec1e919ef5461bf80a6aa278eb1/PowerBI_Project/1.%20Supply_Chain_Dashboard/Project_Insight/Supply%20Chain_Analysis-1.png)
+
 - Peak Demand: **8.0K orders (end of 2024)**
 - Lowest Range: **4.3K – 4.6K orders**
 - Trend: Fluctuating demand with a sharp year-end increase  
@@ -32,6 +35,10 @@ This project showcases an interactive Power BI dashboard designed to analyze sal
 ---
 
 ### 2. Shipment Performance
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/ccf7a30ba9b6eec1e919ef5461bf80a6aa278eb1/PowerBI_Project/1.%20Supply_Chain_Dashboard/Project_Insight/Supply%20Chain_Analysis-2.png)
+
+
 - Delivered Shipments: **2,148K**
 - Delayed Shipments: **228K**
 - Perfect Shipment Rate: **75%**
@@ -45,6 +52,9 @@ This project showcases an interactive Power BI dashboard designed to analyze sal
 ---
 
 ### 3. Revenue by Country
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/ccf7a30ba9b6eec1e919ef5461bf80a6aa278eb1/PowerBI_Project/1.%20Supply_Chain_Dashboard/Project_Insight/Supply%20Chain_Analysis-3.png)
+
 - Top Market: **USA (~7bn revenue)**
 - Secondary Markets: India, Germany, South Korea  
 - Total Revenue: **Rp16bn**
@@ -68,11 +78,4 @@ This project demonstrates the ability to:
 - Identify trends, risks, and growth opportunities  
 - Translate data insights into business recommendations  
 
----
 
-## 🔗 Dashboard Preview
-*(Add Power BI screenshot or publish link here)*
-
----
-
-## 📁 Project Structure
