@@ -24,6 +24,9 @@ This project presents a comprehensive Workforce Analytics Dashboard designed to 
 ## 📊 Key Insights
 
 ### 1. Workforce Composition & Retention
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/bcf80493d8b1f029105df68e625ab51ebe3d774a/Tableau_Project/1.%20HR-%20Dashboard%20Project/Project_Insight/Project_Insight/HR_Analysis-1.png)
+
 - Total Employees: **8,950**
 - Active Employees: **7,984**
 - Turnover Rate: **10.79%**
