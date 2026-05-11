@@ -99,7 +99,9 @@ sns.boxplot(x=data[column])
 ```
 
 ### 📷 Boxplot Visualization
-<img width="800" alt="boxplot" src="YOUR_IMAGE_LINK_HERE">
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/dc277f9dd9a7e44ed650e1d3152c9aebc5828dff/Python_Project/2.%20Rainfall_Prediction%20(Random%20Forest)/Pictures/Boxplot%20Dstribution.png)
+
 
 Purpose:
 - Detect outliers
@@ -116,7 +118,8 @@ sns.heatmap(data.corr(), annot=True, cmap='coolwarm')
 ```
 
 ### 📷 Correlation Heatmap
-<img width="800" alt="heatmap" src="YOUR_IMAGE_LINK_HERE">
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/dc277f9dd9a7e44ed650e1d3152c9aebc5828dff/Python_Project/2.%20Rainfall_Prediction%20(Random%20Forest)/Pictures/Correlation%20Heatmap.png)
 
 Purpose:
 - Identify highly correlated variables
@@ -128,6 +131,8 @@ Purpose:
 # D. Data Preprocessing
 
 ## Handling Imbalanced Data
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/dc277f9dd9a7e44ed650e1d3152c9aebc5828dff/Python_Project/2.%20Rainfall_Prediction%20(Random%20Forest)/Pictures/Rainfall%20(y)%20Distribution.png)
 
 The dataset was imbalanced, therefore:
 - Downsampling technique was applied using:
