@@ -80,7 +80,8 @@ sns.histplot(data[column], kde=True)
 ```
 
 ### 📷 Distribution Plot
-<img width="800" alt="distribution_plot" src="YOUR_IMAGE_LINK_HERE">
+
+![imagealt](https://github.com/Rajiv-Dias/Portofolio_Rajiv/blob/f9993f6d4adce675cd3bf7ca627f298d6890270e/Python_Project/2.%20Rainfall_Prediction%20(Random%20Forest)/Pictures/Distribution%20for%20each%20columns.png)
 
 Purpose:
 - Understand feature distribution
